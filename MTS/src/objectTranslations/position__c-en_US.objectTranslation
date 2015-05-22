@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>position</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Positions</value>
+    </caseValues>
+    <fields>
+        <label><!-- Max Pay --></label>
+        <name>Max_Pay__c</name>
+    </fields>
+    <fields>
+        <label><!-- Min Pay --></label>
+        <name>Min_Pay__c</name>
+    </fields>
+    <fields>
+        <label><!-- Position Grade --></label>
+        <name>Position_Grade__c</name>
+    </fields>
+    <fields>
+        <label><!-- Position Name --></label>
+        <name>Position_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- Position test --></label>
+        <name>Position_test__c</name>
+    </fields>
+    <fields>
+        <label><!-- positionfield --></label>
+        <name>positionfield__c</name>
+    </fields>
+    <startsWith>Consonant</startsWith>
+    <validationRules>
+        <errorMessage><!-- Min Pay Should not exceed Max Pay --></errorMessage>
+        <name>Min_Pay_Rule</name>
+    </validationRules>
+</CustomObjectTranslation>
