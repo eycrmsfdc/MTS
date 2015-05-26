@@ -4,6 +4,7 @@
         <members>*</members>
         <name>ApexClass</name>
     </types>
+<<<<<<< HEAD
     <types>
         <members>*</members>
         <name>ApexComponent</name>
@@ -248,5 +249,7 @@
         <members>*</members>
         <name>Settings</name>
     </types>
+=======
+>>>>>>> refs/remotes/origin/master
     <version>33.0</version>
 </Package>

@@ -480,6 +480,7 @@
     </searchLayouts>
     <sharingModel>ReadWriteTransfer</sharingModel>
     <webLinks>
+<<<<<<< HEAD
         <fullName>TIMBASURVEYS__Send_Survey_Case</fullName>
         <availability>online</availability>
         <displayType>button</displayType>
@@ -506,6 +507,8 @@
         <requireRowSelection>true</requireRowSelection>
     </webLinks>
     <webLinks>
+=======
+>>>>>>> refs/remotes/origin/master
         <fullName>UpsellCrosssellOpportunity</fullName>
         <availability>online</availability>
         <displayType>link</displayType>

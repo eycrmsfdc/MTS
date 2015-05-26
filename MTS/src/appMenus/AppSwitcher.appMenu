@@ -44,8 +44,10 @@
         <name>CrmSfdc</name>
         <type>CustomApplication</type>
     </appMenuItems>
+ 
     <appMenuItems>
         <name>TIMBASURVEYS__Timba_Survey</name>
         <type>CustomApplication</type>
     </appMenuItems>
+ 
 </AppMenu>

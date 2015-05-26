@@ -64,6 +64,7 @@
         <trackFeedHistory>true</trackFeedHistory>
         <type>Hierarchy</type>
     </fields>
+<<<<<<< HEAD
     <fields>
         <fullName>TIMBASURVEYS__SurveyReminder__c</fullName>
         <defaultValue>&apos;&apos;</defaultValue>
@@ -87,6 +88,8 @@
         <type>Number</type>
         <unique>false</unique>
     </fields>
+=======
+>>>>>>> refs/remotes/origin/master
     <listViews>
         <fullName>ActiveUsers</fullName>
         <filterScope>Everything</filterScope>

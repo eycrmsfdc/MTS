@@ -9,6 +9,10 @@ metadataFormatVersion=33.0
 namespacePrefix=
 packageName=unpackaged
 preferToolingDeployment=true
+<<<<<<< HEAD
 projectIdentifier=IDE-1560094264226791301
+=======
+projectIdentifier=IDE-5154009436214112375
+>>>>>>> refs/remotes/origin/master
 readTimeout=400
 username=eycrmsfdc@gmail.com
